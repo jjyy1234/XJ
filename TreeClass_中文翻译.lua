@@ -18,6 +18,7 @@ return {
 	["CaveCrawler"] = "洞穴爬行者木",
 	["Cavern"] = "洞穴木",
 	["Celestial"] = "裂纹木",
+ ["Crystal"] = "水晶木",
 	["Cherry"] = "樱桃木",
 	["Cookie"] = "饼干木",
 	["Copper"] = "铜木",
